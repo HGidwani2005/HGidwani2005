@@ -1,6 +1,6 @@
 <!-- Custom Hero Banner -->
 <p align="center">
-  <img src="github_profile_banner.png" alt="Himanshu Gidwani Banner" width="100%" style="border-radius: 8px;" />
+  <img src="github_profile_banner_v2.png" alt="Himanshu Gidwani Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <!-- Title & Typing Animation -->
@@ -82,9 +82,10 @@ I am a **Third-Year Cyber Security Undergraduate** at **Bennett University** wit
 *   **Tech**: Python, Bash, Linux Security Libraries.
 *   **Features**: Detects system misconfigurations, audits active system ports, identifies outdated components, and reports security levels based on common CVE benchmarks.
 
-#### 🔄 [Self-sync](https://github.com/Hgidwani2005/Self-sync)
-*A sleek productivity web application designed to help individuals track their self-improvement metrics and synchronize daily schedules.*
-*   **Tech**: TypeScript, React, Tailwind CSS.
+#### 🔒 [Biometric Authentication System using AES](https://github.com/HGidwani2005)
+*A secure, hardware-integrated biometric lock system developed on the Arduino Uno R3.*
+*   **Hardware & Tech**: Arduino Uno R3, Relay Module (electronic lock simulation), Fingerprint Sensor, C/C++ (Arduino IDE).
+*   **Security**: Implements AES encryption to secure biometric transmissions and generates hash values on the Arduino Uno R3 to prevent replay attacks and tampering.
 
 ---
 
