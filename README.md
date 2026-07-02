@@ -92,13 +92,13 @@ I am a **Third-Year Cyber Security Undergraduate** at **Bennett University** wit
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HGidwani2005&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=21262d&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HGidwani2005&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=21262d&hide_border=false" height="170" alt="" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HGidwani2005&theme=dark&background=0d1117&border=21262d&ring=58a6ff&fire=ff5a00&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HGidwani2005&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d&hide_border=false" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HGidwani2005&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d&hide_border=false" height="170" alt="" />
 </p>
 
 ---
